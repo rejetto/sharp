@@ -1,4 +1,4 @@
-exports.version = 1.01
+exports.version = 1.02
 exports.description = "Thumbnails engine. Install this and then the thumbnails plugin."
 exports.apiRequired = 8.21 // customApi
 exports.repo = "rejetto/sharp"
